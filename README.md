@@ -4,6 +4,6 @@ About me
 
 ### Languages and Tools
 
-![HTML](https://img.shields.io/badge/-HTML-f16529?style=for-the-badge&logo=appveyor)
+![HTML](https://img.shields.io/badge/-HTML-f16529?style=for-the-badge&logo=html)
 
 Follow me
