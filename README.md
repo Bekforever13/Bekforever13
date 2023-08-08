@@ -1,20 +1,25 @@
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
+<br />
 
 Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profile 😄
+<br />
+<br />
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on  `Tusindirme - sozlik`
-  
-- 🌱 I’m currently learning `TypeScript advanced`
-  
-- 👯 I’m looking to collaborate on projects
-  
+<br />
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
+- 🔭 I’m currently working on `Tusindirme - sozlik`
+- 🌱 I’m currently learning `TypeScript advanced`
+- 👯 I’m looking to collaborate on projects
+  <br />
+  <br />
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<br />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,3 +32,12 @@ Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profi
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&logoColor=fff)
 ![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<br />
+
+<a href="https://instagram.com/bekforever13" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+<br />
+<br />
