@@ -9,9 +9,9 @@ About me
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![React](https://img.shields.io/badge/-React-#38BDF8?style=for-the-badge&logo=react&logoColor=fff)
-![Redux](https://img.shields.io/badge/-Redux-#774ABB?style=for-the-badge&logo=reduz&logoColor=fff)
-![Typescript](https://img.shields.io/badge/-Typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-#38BDF8?style=for-the-badge&logo=reactjs&logoColor=fff)
+![Redux](https://img.shields.io/badge/-Redux-#774ABB?style=for-the-badge&logo=redux&logoColor=fff)
+![Typescript](https://img.shields.io/badge/-Typescript-#3178C6?style=for-the-badge&logo=ts&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&logoColor=fff)
 
 Follow me
