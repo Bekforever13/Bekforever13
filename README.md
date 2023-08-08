@@ -1,8 +1,20 @@
-Header
 
-About me
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-### Languages and Tools
+Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profile 😄
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+- 🔭 I’m currently working on  `Tusindirme - sozlik`
+  
+- 🌱 I’m currently learning `TypeScript advanced`
+  
+- 👯 I’m looking to collaborate on projects
+  
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,5 +27,3 @@ About me
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&logoColor=fff)
 ![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
-
-Follow me
