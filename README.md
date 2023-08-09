@@ -42,8 +42,31 @@ Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profi
 <a href="https://t.me/bekforever" target="blank"><img align="center"
       src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=32A8DE"
       /></a>
-<a href=“mailto:b3kforever@gmail.com” target="blank"><img align="center"
-      src="	https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail"
-      /></a>
+
 <br />
 <br />
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekforever13&theme=tokyonight_duo" alt="Bekforever13" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+---
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Bekforever13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bekforever13&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bekforever13&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Bekforever13" height="230px"/>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  </p>
+</details>
