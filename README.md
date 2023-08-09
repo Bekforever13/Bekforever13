@@ -38,12 +38,12 @@ Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profi
 
 <a href="https://instagram.com/bekforever13" target="blank"><img align="center"
       src="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram"
-      height="30" width="40" /></a>
+      /></a>
 <a href="https://t.me/bekforever" target="blank"><img align="center"
       src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=32A8DE"
-      height="30" width="40" /></a>
+      /></a>
 <a href=“mailto:b3kforever@gmail.com” target="blank"><img align="center"
-      src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"
-      height="30" width="40" /></a>
+      src="	https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail"
+      /></a>
 <br />
 <br />
