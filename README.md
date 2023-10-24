@@ -11,7 +11,7 @@ Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profi
 
 <br />
 
-- 🔭 I’m currently working on `Tusindirme - sozlik`
+- 🔭 I’m currently working on `JOB - baraka`
 - 🌱 I’m currently learning `Next.JS`
 - 👯 I’m looking to collaborate on projects
   <br />
