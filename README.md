@@ -6,6 +6,7 @@
 Hi! My name is `Bekpolat`. Thank You for taking the time to view my GitHub Profile 😄
 <br />
 <br />
+Check out my personal [web-site](https://bekforever.vercel.app/)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
