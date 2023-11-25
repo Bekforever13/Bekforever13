@@ -47,18 +47,15 @@ Check out my personal [web-site](https://bekforever.vercel.app/)
 <br />
 <br />
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
-
-<summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekforever13&theme=tokyonight_duo" alt="Bekforever13" /></p>
-
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats 💻
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekforever13&theme=tokyonight_duo" alt="Bekforever13" />
+
+---
+
+![](
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Bekforever13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bekforever13&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -68,3 +65,4 @@ Check out my personal [web-site](https://bekforever.vercel.app/)
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   </p>
+)
