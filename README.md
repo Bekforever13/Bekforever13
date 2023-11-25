@@ -51,11 +51,12 @@ Check out my personal [web-site](https://bekforever.vercel.app/)
 
 ---
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekforever13&theme=tokyonight_duo" alt="Bekforever13" />
+</p>
 
 ---
 
-![](
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Bekforever13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bekforever13&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -65,4 +66,3 @@ Check out my personal [web-site](https://bekforever.vercel.app/)
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   </p>
-)
