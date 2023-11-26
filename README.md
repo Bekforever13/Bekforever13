@@ -52,14 +52,14 @@ Check out my personal [web-site](https://bekforever.vercel.app/)
 ---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekforever13&theme=tokyonight_duo" alt="Bekforever13" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekforever13" alt="Bekforever13" />
 </p>
 
 ---
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Bekforever13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bekforever13&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Bekforever13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bekforever13&show_icons=true&count_private=true&locale=en&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bekforever13&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Bekforever13" height="230px"/>
 <br/>
 
