@@ -8,7 +8,7 @@ Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
 
 <br />
 
-- 🔭 I’m currently working on `JOB - baraka`
+- 🔭 I’m currently working on `Tusindirme Sozlik`
 - 🌱 I’m currently learning `Next.JS`
 - 👯 I’m looking to collaborate on projects
   <br />
