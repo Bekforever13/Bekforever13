@@ -8,8 +8,8 @@ Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
 
 <br />
 
-- 🔭 I’m currently working on `Tusindirme Sozlik`
-- 🌱 I’m currently learning `Next.JS`
+- 🔭 I’m currently working on `Warehouse System Management`
+- 🌱 I’m currently learning `Node JS`
 - 👯 I’m looking to collaborate on projects
   <br />
   <br />
