@@ -3,26 +3,12 @@ Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
 </h1
 <br />
 <br />
-
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <br />
 
-- 🔭 I’m currently working on `Warehouse System Management`
-- 🌱 I’m currently learning `Node JS`
-- 👯 I’m looking to collaborate on projects
-  <br />
-  <br />
-
-<br />
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<br />
-
-<a href="https://t.me/bekforever" target="blank"><img align="center"
+<h2> Connect with me <a href="https://t.me/bekforever" target="blank"><img align="center"
       src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=32A8DE"
-      /></a>
+      /></a> </h2>
+<br />
 
 <br />
 <br />
