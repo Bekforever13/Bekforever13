@@ -1,6 +1,6 @@
 <h1 align="center">
-Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15px> ! My name is `Bekpolat`.
-</h1>
+Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> ! My name is Bekpolat.
+</h1
 <br />
 <br />
 
