@@ -53,8 +53,6 @@
 <br />
 <div align="center">
 
-<img src="https://github.com/bekforever13/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/bekforever13/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekforever13&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bekforever13&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bekforever13&theme=monokai)
